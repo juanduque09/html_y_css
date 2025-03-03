@@ -1,6 +1,8 @@
-p {
-    color: red;
+input {
+    width: 90%;
 }
-h1 {
-    color: blue;
+
+form {
+    width: 300px;
+    /* background: red; */
 }
