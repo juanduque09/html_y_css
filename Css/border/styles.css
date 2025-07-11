@@ -1,0 +1,28 @@
+.titulo {
+    background: red;
+    width: 200px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+.titulo{
+    /* border-width: 3px; */
+    /* border-color: black; */
+    /* border-style: solid; */
+    border: 5px solid black; /* Es lo mismo que las tres lineas anteriores, las sustituye */
+    border-radius: 10px;
+}
+
+input {
+    margin: 5px;
+    padding: 10px 10px;
+    border: none;
+    border-top: 2px solid red;
+    background: gainsboro;
+    border-radius: 5px;
+}
+
+body {
+    background: black;
+}

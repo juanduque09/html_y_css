@@ -1,0 +1,8 @@
+.box {
+    /* background: rgb( 240, 220, 240); RGB */
+    background: #00ff00;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+
